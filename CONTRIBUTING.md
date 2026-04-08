@@ -26,6 +26,7 @@ clear and concise explanation of what need you are trying to solve. If you have
 thoughts on _how_ it can be solved, include those too!
 
 The best way to see a feature added, however, is to submit a pull request.
+the best way
 
 ## Pull Requests
 
